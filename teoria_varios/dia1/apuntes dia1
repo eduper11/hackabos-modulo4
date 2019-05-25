@@ -1,0 +1,8 @@
+patron observer (para front)
+un objeto onde se quere observar os cambios, e os entes que están observando avisan de que o objeto cambia. e unha das bases de angular
+
+desde 1 hasta 10, que saque 1, 12, 123, 1234.
+
+forEach: si lle poñemos a p, tamen nos saca os índices de cada iteracion
+
+con el array de clase, sacar cada letra en minuscula, por clg, usando metodos asci

@@ -1,0 +1,11 @@
+try catch gestion error sincrono only
+
+bind (ip, port, protocol) mismo puerto para diferentes programas
+
+spread operator
+
+destructuring
+
+require e export node.js
+
+Un servidor tiene una ip, un puerto, y un PROTOCOLO
